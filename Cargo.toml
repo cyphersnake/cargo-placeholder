@@ -1,0 +1,11 @@
+[package]
+version = "0.0.0"
+edition = "2021"
+description = "{{description}}"
+authors = [
+    "cyphersnake <cyphersnake@pm.me>"
+]
+repository = "https://github.com/cyphersnake/{{crate_name}}"
+license = "MIT"
+
+[dependencies]
